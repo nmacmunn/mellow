@@ -1,7 +1,7 @@
 # mellow
 
-### [new user](https://mellowout.typeform.com/to/RDRlbB)
+<h3><a href="https://mellowout.typeform.com/to/RDRlbB" target="_blank">sign up</a></h3>
 
-### [want something](https://mellowout.typeform.com/to/tnyLYV)
+<h3><a href="https://mellowout.typeform.com/to/tnyLYV" target="_blank">add want</a></h3>
 
-### [bought something](https://mellowout.typeform.com/to/WQMxJA)
+<h3><a href="https://mellowout.typeform.com/to/WQMxJA" target="_blank">add purchase</a></h3>
